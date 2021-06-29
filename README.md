@@ -1,6 +1,6 @@
 # Beer-api
 
-Teste de Java
+Teste de Software em Java
 
 * [Spring](https://spring.io/)
 * [JUnit 5](https://junit.org/junit5/docs/current/user-guide/)
